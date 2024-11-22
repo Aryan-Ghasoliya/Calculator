@@ -78,9 +78,8 @@ python simple_calculator.py
 #### 3. Error Handling:
 
 - Catches exceptions (e.g., division by zero) and displays "Error".
-## Future Enhancements
-- Add support for advanced mathematical functions like square root, exponentiation, and trigonometric calculations.
-- Include a history feature to display past calculations.
-- Improve UI design with themes and custom styling.
+## Example Screenshot
+![Calculator](https://github.com/user-attachments/assets/3e635f83-3976-44b0-a582-8120cc7cec84)
+
 
 Enjoy using the Simple Calculator! 😊
